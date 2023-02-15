@@ -1,0 +1,130 @@
+export const foodMenu = [
+    {
+        id: "1",
+        name: "SPYCI 'DIABLO' CRAB & PRAWN",
+        description: "Rich egg-taliolini with crab meat and prawns in a angrily spicy egg-sauce",
+        price: 17.5,
+    },
+    {
+        id: "2",
+        name: "TORCHIETTI 'MAC' & CHEESE",
+        description: "Indulgent 3-cheese sauce, Torchietti pasta with a delicious cheese crumble",
+        price: 15.5,
+    },
+    {
+        id: "3",
+        name: "SUNDRIED CHICKEN PESTO",
+        description: "Penne tossed in a sundried tomato pesto with grilled chicken",
+        price: 12.5,
+    },
+    {
+        id: "4",
+        name: "AGLIO OLIO PRAWNS",
+        description: "Linguini with butterflied prawns (5 pieces), minced garlic & fine herbs",
+        price: 13.5,
+    },
+    {
+        id: "5",
+        name: "SQUID-INK SEAFOOD MARINARA",
+        description: "Squid-ink Tagliolini with seasonal seafood in clear marinara sauce",
+        price: 15.9,
+    },
+    {
+        id: "6",
+        name: "SPINACH & EGG BOLOGNESE",
+        description: "5-hour slow-cooked beef ragu with spinach and egg Tagliolini and Parmigiano",
+        price: 15.5,
+    },
+    {
+        id: "7",
+        name: "PORCINI RAVIOLACCI & DUCK",
+        description: "Large Porcini Raviolacci tossed in brown-butter served with crispy duck",
+        price: 17.9,
+    },
+    {
+        id: "8",
+        name: "AGLIO OLIO AI FUNGHI",
+        description: "Linguini with a mushroom medley, minced garlic & fine herbs",
+        price: 10.5,
+    },
+    {
+        id: "9",
+        name: "AGLIO OLIO WITH CRAB",
+        description:
+            "Linguini with lumb crab meat, minced garlic & fine herbs. Topped with cold crab.",
+        price: 14.5,
+    },
+    {
+        id: "10",
+        name: "SEAFOOD AGLIO OLIO",
+        description: "Linguini with prawns, squid & scallops, minced garlic & fine herbs",
+        price: 13.9,
+    },
+    {
+        id: "11",
+        name: "SUMMER TRUFFLE TAGLIATELLE",
+        description: "Egg Tagliatelle with summer truffle salsa, Parmigiano and chives",
+        price: 15.5,
+    },
+    {
+        id: "12",
+        name: "DECONSTRUCTED LASAGNA",
+        description: "Ribbons of Parpadelle tossed in cheesey bechemal sauce served with meat ragu",
+        price: 18.5,
+    },
+    {
+        id: "13",
+        name: "CHICKEN AGLIO OLIO",
+        description: "Linguini with grilled chicken tossed in garlic, olive oil & fine herbs",
+        price: 11.5,
+    },
+    {
+        id: "14",
+        name: "SUNDRIED MUSHROOM PESTO",
+        description: "Penne tossed in a sundried tomato pesto with grilled chicken",
+        price: 11.5,
+    },
+    {
+        id: "15",
+        name: "PRAWN POMODORO",
+        description: "Penne tossed in a pomodoro sauce with prawns & fine herbs",
+        price: 13.5,
+    },
+    {
+        id: "16",
+        name: "SEAFOOD PESTO GNOCCHI",
+        description: "Fresh potato Gnocchi tossed in a rich basil-pesto and seasonal seafood",
+        price: 15.9,
+    },
+    {
+        id: "17",
+        name: "LUMP CRAB PAPARDELLE",
+        description:
+            "Papardelle with lump crab meat in a pink cream-sauce, micro-herbs & and cold crab",
+        price: 15.9,
+    },
+    {
+        id: "18",
+        name: "MEATBALLS GARGANELLI",
+        description: "Meatballs served with pomodoro sauce over handmade Garganelli pasta",
+        price: 15.5,
+    },
+    {
+        id: "19",
+        name: "CRISPY DUCK SALAD",
+        description: "Crispy duch confit, baby greens, oranges, almonds, orange vinaigrette",
+        price: 9.9,
+    },
+    {
+        id: "20",
+        name: "PAN-SEARED FOIE GRAS",
+        description: "Served with bread, sweet balsamic onions and sticky balsamic glaze",
+        price: 14.5,
+    },
+    {
+        id: "21",
+        name: "WILD ROCKET SALAD",
+        description: "A simple salad, wild rocket tossed with an aged-balsamic vinaigrette",
+        price: 6.5,
+    },
+];
