@@ -7,9 +7,9 @@
     "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d dist",
-        "dev": "vite",
+        "dev": "vite --port 3000",
         "build": "vite build",
-        "preview": "vite preview --port 3000"
+        "preview": "vite preview"
     },
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^6.3.0",
